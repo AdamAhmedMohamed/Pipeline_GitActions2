@@ -1,0 +1,23 @@
+{
+    "name": "pipeline_gitactions2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+    "test": "jest"
+  },
+  
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/AdamAhmedMohamed/Pipeline_GitActions2.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/AdamAhmedMohamed/Pipeline_GitActions2/issues"
+    },
+    "homepage": "https://github.com/AdamAhmedMohamed/Pipeline_GitActions2#readme",
+    "devDependencies": {
+      "jest": "^29.7.0"
+    }
+  }
